@@ -8,5 +8,6 @@ In my coding adventures, I explore these technologies to power smart, user-frien
 
 Join me on this journey of innovation and improvement. Let's build a brighter future for our furry friends and green companions, especially our beloved dogs, together!
 
-[![GitHub Badge](https://img.shields.io/badge/My_Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/stacey-kenny/)
+[![GitHub Badge](https://img.shields.io/badge/My_Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stacey-kenny)
+[![GitHub Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stacey-kenny/)
 [![Twitter Badge](https://img.shields.io/badge/Connect_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/berlinXperiment)
